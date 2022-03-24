@@ -1,0 +1,6 @@
+[autorun]
+label=SDK_13.7.802.14
+shell\Install\command=SDK_3.7.802.14_(Beta)_Setup.exe
+shell\Install= Install SDK_3.7.802.14
+open=SDK_3.7.802.14_(Beta)_Setup.exe
+icon=ph16x.ico
